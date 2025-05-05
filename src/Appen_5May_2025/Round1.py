@@ -12,6 +12,8 @@
 
 8. All conditional statement in Springgf
 
+7. N+1 Problem in Hibernate & how we handle it
+
 7. Invert the binary tree.
 
 
