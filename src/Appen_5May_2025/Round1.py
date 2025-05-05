@@ -10,7 +10,7 @@
 
 6. how to optimize sol query this is good query
 
-8. All conditional statement in Spring
+8. All conditional statement in Springgf
 
 7. Invert the binary tree.
 
