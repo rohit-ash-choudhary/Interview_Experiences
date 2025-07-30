@@ -4,7 +4,7 @@ daily project work
 what is container in the docker
 aws
 Abstaction
-design pattern you used
+design pattern you used :
 The Next greater Element for an element x is the first greater element on the right side of x in the array. Elements for which no greater element exist, consider the next greater element as -1.
 Input: arr[] = [ 4 , 5 , 2 , 25 ]
 Output:  	 4      –>   5
