@@ -52,7 +52,7 @@ delete from order where order_date < SYSDATE-365*10;  //DATE.FORMAT("MM-DD-YYYY"
 update order set is_delete="True" where  order_date < SYSDATE-365*10;  //DATE.FORMAT("MM-DD-YYYY");
 
 
- REST API AND THEIR METHOD
+REST API AND THEIR METHOD
 REST VS SOAP
 
 ANNOTATION IN SPRING
