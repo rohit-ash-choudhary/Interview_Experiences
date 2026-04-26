@@ -64,4 +64,5 @@ primary vs qualifier internal
 how handle transction in hibernate
 when a third party service write data to our db/app and then how we can we make sure this this
  sync or correct data that he write and hld and code level
+ how much you notic period or serving
 """
