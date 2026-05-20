@@ -16,6 +16,7 @@ hashset
 
 hashamap working(in which hashcollison)
 
+reflection api where is used.
 sleep vs wait method
 
 execute service
@@ -37,7 +38,7 @@ dob as column no age column present
 
 bean vs component , how you read properties in your spring project
 like spring.mail.server.mail
-
+DATABASE SHARDING : 
 where we testtemplate and httpclient why httpclient is better
 if which is better in any one better give functionlity
 get a mircoservices desing follow from one to end
